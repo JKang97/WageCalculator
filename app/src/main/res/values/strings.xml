@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWage</string>
+
+    <string name="submit_bt">Submit</string>
+    <string name="cancel_bt">Cancel</string>
+    <string name="date">Date</string>
+    <string name="tax_rate">TAX</string>
+
+</resources>
