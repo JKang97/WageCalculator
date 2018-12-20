@@ -9,8 +9,8 @@ Users can calculate the total wage including tips for specific period.
 ## Project Schedule
 ![ScreenShot](/Images/WageCalculator.png)
 ### First Week
-Set up the Project Schedule
-Checking Required Functions and Setting up the Layouts
+* Set up the Project Schedule
+* Checking Required Functions and Setting up the Layouts
 ### 2nd Week - 3rd week
 Developing the Initial Version of Wage Calculator
 ### 4th Week
