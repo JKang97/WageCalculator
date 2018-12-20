@@ -7,7 +7,7 @@ This application is for attaendants who are working in a Restaurant.
 Users can calculate the total wage including tips for specific period. 
 
 ## Project Schedule
-![image](WageCalculator/Images/WageCalculator.png)
+![image](https://github.com/JKang97/WageCalculator/Images/WageCalculator.png)
 ### First Week
 Set up the Project Schedule
 Checking Required Functions and Setting up the Layouts
