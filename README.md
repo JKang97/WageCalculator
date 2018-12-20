@@ -12,16 +12,16 @@ Users can calculate the total wage including tips for specific period.
 * Set up the Project Schedule
 * Checking Required Functions and Setting up the Layouts
 ### 2nd Week - 3rd week
-Developing the Initial Version of Wage Calculator
+* Developing the Initial Version of Wage Calculator
 ### 4th Week
-Developing the Initial Version of Wage Recorder
+* Developing the Initial Version of Wage Recorder
 ### 5th week
-Testing with Dummy Data
-Starting Setting up Database with SQLite
+* Testing with Dummy Data
+* Starting Setting up Database with SQLite
 ### 6th Week
-Setting up Database with SQLite
+* Setting up Database with SQLite
 ### 7th Week
-Converting the Local Database to the Online Database
-Increasing the Interfaces and Layouts
+* Converting the Local Database to the Online Database
+* Increasing the Interfaces and Layouts
 ### 8th Week
-Final Testing and Uploading App into Google Playstore
+* Final Testing and Uploading App into Google Playstore
